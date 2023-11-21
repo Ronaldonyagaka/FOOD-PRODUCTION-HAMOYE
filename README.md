@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository contains a Jupyter Notebook exploring African food production and supply trends from 2004 to 2013. The analysis encompasses temporal trends, regional dynamics, boxplot insights, production vs. consumption dynamics, sustainability insights, key players, and recommendations.
-
+This repository contains a Jupyter Notebook exploring African food production and supply trends from 2004 to 2013. The analysis encompasses temporal trends, regional dynamics, boxplot insights, production vs. consumption dynamics, sustainability insights and key players.
 ## Notebook Contents
 
 - [Introduction](#introduction)
@@ -14,7 +13,6 @@ This repository contains a Jupyter Notebook exploring African food production an
 - [Production vs. Consumption](#production-vs-consumption)
 - [Sustainability Insights](#sustainability-insights)
 - [Key Players](#key-players)
-- [Recommendations](#recommendations)
 
 ## [Introduction](#introduction)
 
